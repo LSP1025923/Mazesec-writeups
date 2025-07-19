@@ -57,6 +57,7 @@
     |-- config
     |-- exchange
     |-- new
+    |-- paste
     |-- sml
     |-- sneak
     |-- sudo
