@@ -58,6 +58,7 @@
     |-- exchange
     |-- new
     |-- paste
+    |-- rabb1t
     |-- sml
     |-- sneak
     |-- sudo
