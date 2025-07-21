@@ -56,6 +56,7 @@
     |-- basic
     |-- config
     |-- exchange
+    |-- magic
     |-- new
     |-- paste
     |-- rabb1t
